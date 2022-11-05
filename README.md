@@ -1,2 +1,2 @@
 # titanic-facens
-Trabalho final da disciplica de Python, Facens.
+Trabalho final da disciplina de Python, Facens.
